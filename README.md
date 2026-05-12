@@ -27,4 +27,4 @@ A deep-dive Linux Offensive Security course with comprehensive Purple Teaming me
 - Black Hat USA 2026: https://blackhat.com/us-26/training/schedule/index.html#practical-linux-attack-paths-and-dfirhunting-v20-50776
 
 # LESZEK MIS PROFILE / DEFENSIVE SECURITY OFFER PACKAGE:
-- Leszek-Mis-Profile-Defensive-Security.com-Offer-Package-Linux-Security-2026.pdf
+- [Leszek-Mis-Profile-Defensive-Security.com-Offer-Package-Linux-Security-2026.pdf](https://github.com/cr0nx/linux-attack-detection-forensics-v2.0-preview-labs/blob/main/Leszek-Mis-Profile-Defensive-Security.com-Offer-Package-Linux-Security-2026.pdf)
