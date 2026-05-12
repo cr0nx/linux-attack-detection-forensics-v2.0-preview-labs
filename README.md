@@ -25,3 +25,6 @@ A deep-dive Linux Offensive Security course with comprehensive Purple Teaming me
 - OrangeCON 2026 Amsterdam: https://orangecon.nl/trainings/t1_practical_linux_attack_paths
 - X33FCON 2026 Poland: https://x33fcon.com/#!t/LeszekMis.md
 - Black Hat USA 2026: https://blackhat.com/us-26/training/schedule/index.html#practical-linux-attack-paths-and-dfirhunting-v20-50776
+
+# LESZEK MIS PROFILE / DEFENSIVE SECURITY OFFER PACKAGE:
+- Leszek-Mis-Profile-Defensive-Security.com-Offer-Package-Linux-Security-2026.pdf
