@@ -18,6 +18,9 @@ A deep-dive Linux Offensive Security course with comprehensive Purple Teaming me
 | 10 | [General Course Flow & Design](https://edu.defensive-security.com/view/courses/linux-attack-detection-and-live-forensics-v2-0/3350673-introduction/10960544-general-course-flow-design) | Introduction to the course structure, lab methodology, and purple team workflow |
 | 11 | [Visibility Events / Indexes / Data sources](https://edu.defensive-security.com/view/courses/linux-attack-detection-and-live-forensics-v2-0/3369307-linux-edr-architecture/10982663-visibility-events-indexes-data-sources) | Visibility Events / Indexes / Data sources |
 
+# Github 25% OFF PROMO CODE - valid until 23th May 2026:
+https://edu.defensive-security.com/linux-attack-detection-and-live-forensics-v2-0?coupon=5XVCK7P-GITHUB
+
 # Check the testimonials and recommendations page - it's huge!
 - https://edu.defensive-security.com/about
 
