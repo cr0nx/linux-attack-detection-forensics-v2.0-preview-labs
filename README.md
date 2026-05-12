@@ -1,5 +1,5 @@
 # linux-attack-detection-forensics-v2.0-preview-labs
-Publicly available lab sections/demos of Defensive Security's Linux Attack, Detection, and Forensics V2.0 - Hands-on Purple Teaming Playbook. Many people ask about the style and structure of the materials. I also share previews of sections from time to time; I thought it would be good to have all the links in one place.
+Publicly available lab sections/demos of Defensive Security's Linux Attack, Detection, and Forensics V2.0 - Hands-on Purple Teaming Playbook. Many people ask about the style and structure of the materials. I also share previews of sections from time to time; I thought it would be good to have all the links in one place. For the best quality viewing of preview materials, I recommend 200% zoom.
 # About the course
 A deep-dive Linux Offensive Security course with comprehensive Purple Teaming methodology and detection/forensics logics, featuring AI-ready content delivery enhancement and MITRE ATT&CK framework integration. Technical excellence through practical Red vs Blue application. 100% Linux Hands-On delivery focused on real-world scenarios. Your Next Generation Approach for Self-Learning Linux Security from the perspective of the attacker and defender:
 - https://edu.defensive-security.com/linux-attack-detection-and-live-forensics-v2-0
